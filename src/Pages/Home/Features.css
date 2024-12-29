@@ -1,0 +1,7 @@
+.background {
+    background-image: url('../../assets/home/featured.jpg');
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+    background-blend-mode: darken; /* Makes the background darker */
+    background-size: cover; /* Ensures the image covers the entire area */
+    background-position: center;
+}
